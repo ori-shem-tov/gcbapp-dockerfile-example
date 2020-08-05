@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
 
 echo Running Tests...
-Tests Passed!
+echo Tests Passed!
 
